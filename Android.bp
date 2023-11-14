@@ -282,7 +282,7 @@ android_app_import {
 }
 
 android_app_import {
-	name: "DeviceIntelligenceNetworkPrebuiltPixel3",
+	name: "DeviceIntelligenceNetworkPrebuilt",
 	owner: "google",
 	apk: "proprietary/product/priv-app/DeviceIntelligenceNetworkPrebuilt/DeviceIntelligenceNetworkPrebuilt.apk",
 	presigned: true,
